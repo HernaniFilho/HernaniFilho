@@ -50,6 +50,6 @@ Estudante de **Ciência da Computação no CEFET/RJ** com experiência prática 
 <div align="center">
 
 ![Hernani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HernaniFilho&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HernaniFilho&layout=compact&theme=tokyonight&exclude_repo=Scrum-Saga,Projeto-Realidade-VIrtual-IHC)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HernaniFilho&layout=compact&theme=tokyonight&exclude_repo=Scrum-Saga,Projeto-Realidade-VIrtual-IHC,Inferencia-Github)
 
 </div>
